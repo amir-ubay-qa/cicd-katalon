@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify endpoint GET all users</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c6c2addc-3822-4b5c-b0d4-41e72a78c343</testCaseGuid>
+</TestCaseEntity>

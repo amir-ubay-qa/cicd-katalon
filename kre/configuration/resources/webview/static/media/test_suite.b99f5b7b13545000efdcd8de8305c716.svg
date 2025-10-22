@@ -1,0 +1,24 @@
+<svg width="14" height="16" viewBox="0 0 14 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="5" cy="4" r="0.5" fill="#76BF42" stroke="#595959"/>
+<circle cx="5" cy="7" r="0.5" fill="#76BF42" stroke="#595959"/>
+<circle cx="5" cy="10" r="0.5" fill="#76BF42" stroke="#595959"/>
+<rect x="7.25" y="4.25" width="3.5" height="0.5" rx="0.25" fill="#D8D8D8" stroke="#595959" stroke-width="0.5"/>
+<rect x="7.25" y="7.25" width="3.5" height="0.5" rx="0.25" fill="#D8D8D8" stroke="#595959" stroke-width="0.5"/>
+<rect x="7.25" y="10.25" width="3.5" height="0.5" rx="0.25" fill="#D8D8D8" stroke="#595959" stroke-width="0.5"/>
+<path d="M2 1C2 0.447716 2.44772 0 3 0H13C13.5523 0 14 0.447715 14 1V13C14 13.5523 13.5523 14 13 14H3C2.44772 14 2 13.5523 2 13V1Z" fill="#76BF42"/>
+<path d="M13 13V14H3V13H13ZM13 1H3V14L2.89746 13.9951C2.42703 13.9472 2.05278 13.573 2.00488 13.1025L2 13V1C2 0.482323 2.39333 0.0562145 2.89746 0.00488281L3 0H13L13.1025 0.00488281C13.6067 0.0562143 14 0.482323 14 1V13L13.9951 13.1025C13.9472 13.573 13.573 13.9472 13.1025 13.9951L13 14V1Z" fill="#595959"/>
+<circle cx="5" cy="4" r="0.5" fill="#76BF42" stroke="#595959"/>
+<circle cx="5" cy="7" r="0.5" fill="#76BF42" stroke="#595959"/>
+<circle cx="5" cy="10" r="0.5" fill="#76BF42" stroke="#595959"/>
+<rect x="7.25" y="4.25" width="3.5" height="0.5" rx="0.25" fill="#D8D8D8" stroke="#595959" stroke-width="0.5"/>
+<rect x="7.25" y="7.25" width="3.5" height="0.5" rx="0.25" fill="#D8D8D8" stroke="#595959" stroke-width="0.5"/>
+<rect x="7.25" y="10.25" width="3.5" height="0.5" rx="0.25" fill="#D8D8D8" stroke="#595959" stroke-width="0.5"/>
+<path d="M0 3C0 2.44772 0.447715 2 1 2H11C11.5523 2 12 2.44772 12 3V15C12 15.5523 11.5523 16 11 16H1C0.447715 16 0 15.5523 0 15V3Z" fill="#E8E8E8"/>
+<path d="M11 15V16H1V15H11ZM11 3H1V16L0.897461 15.9951C0.427034 15.9472 0.0527828 15.573 0.00488281 15.1025L0 15V3C1.81167e-07 2.48232 0.393331 2.05621 0.897461 2.00488L1 2H11L11.1025 2.00488C11.6067 2.05621 12 2.48232 12 3V15L11.9951 15.1025C11.9472 15.573 11.573 15.9472 11.1025 15.9951L11 16V3Z" fill="#595959"/>
+<circle cx="3" cy="6" r="0.5" fill="#76BF42" stroke="#595959"/>
+<circle cx="3" cy="9" r="0.5" fill="#76BF42" stroke="#595959"/>
+<circle cx="3" cy="12" r="0.5" fill="#76BF42" stroke="#595959"/>
+<rect x="5.25" y="6.25" width="3.5" height="0.5" rx="0.25" fill="#595959" stroke="#595959" stroke-width="0.5"/>
+<rect x="5.25" y="9.25" width="3.5" height="0.5" rx="0.25" fill="#595959" stroke="#595959" stroke-width="0.5"/>
+<rect x="5.25" y="12.25" width="3.5" height="0.5" rx="0.25" fill="#595959" stroke="#595959" stroke-width="0.5"/>
+</svg>
